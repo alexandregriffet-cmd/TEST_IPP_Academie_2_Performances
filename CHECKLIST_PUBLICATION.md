@@ -1,6 +1,9 @@
-- [ ] index.html à la racine
-- [ ] app.js à la racine
-- [ ] styles.css à la racine
-- [ ] fichiers JSON à la racine
-- [ ] .nojekyll présent
-- [ ] Pages activé sur main + /root
+# Check-list rapide
+
+- index.html est visible à la racine du dépôt
+- questions_ipp_v5.json est visible à la racine du dépôt
+- profiles_36_ipp_v5.json est visible à la racine du dépôt
+- phase_items_v5.json est visible à la racine du dépôt
+- stress_items_v5.json est visible à la racine du dépôt
+- GitHub Pages est réglé sur main + /(root)
+- l'URL du site correspond au nom du dépôt
