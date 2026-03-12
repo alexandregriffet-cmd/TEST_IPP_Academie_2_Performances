@@ -1,1821 +1,1801 @@
 [
   {
     "id": 1,
-    "text": "Ton équipe prépare un match important ce week-end.",
+    "text": "Tu arrives sur le lieu d’une compétition avec beaucoup d’attente avant ton passage.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je me projette sur ce que ce rendez-vous peut représenter pour la suite de la saison."
+        "label": "Je regarde d’abord l'enjeu de la journée."
       },
       {
         "k": "Cq",
-        "label": "Je me focalise sur ce que je dois faire pour être décisif dans l’action."
+        "label": "Je choisis d’abord une séquence d’échauffement utile."
       },
       {
         "k": "Bv",
-        "label": "Je veille à ce que l’équipe reste soudée et mentalement engagée."
+        "label": "Je prends en compte les signes de tension chez les autres."
       },
       {
         "k": "Fb",
-        "label": "Je repère ce qui a réellement manqué sur nos dernières séquences utiles."
+        "label": "Je vérifie d’abord ce qui peut perturber ton entrée en action."
       },
       {
         "k": "Gt",
-        "label": "Je vérifie que notre organisation et nos repères de jeu sont clairs."
+        "label": "Je remets en place tes repères de préparation."
       },
       {
         "k": "Sp",
-        "label": "Je propose une variation qui peut surprendre positivement l’adversaire."
+        "label": "Je tente une façon plus légère de rester en mouvement."
       }
-    ],
-    "mirrorOf": 53
+    ]
   },
   {
     "id": 2,
-    "text": "Tu dois rendre un dossier important dans peu de temps.",
+    "text": "Ton entraîneur te donne une consigne nouvelle juste avant de commencer.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je relie ce travail à l’objectif plus large que je veux atteindre."
+        "label": "Je regarde d’abord ce que cette consigne peut apporter à ton match."
       },
       {
         "k": "Cq",
-        "label": "Je commence par traiter ce qui me fera gagner le plus de points."
+        "label": "Je choisis d’abord le premier ajustement à appliquer tout de suite."
       },
       {
         "k": "Bv",
-        "label": "Je cherche un appui ou un rythme de travail qui me fasse tenir moralement."
+        "label": "Je prends en compte la manière dont elle sera reçue par l’équipe."
       },
       {
         "k": "Fb",
-        "label": "Je passe en revue les notions pour voir exactement ce que je maîtrise ou non."
+        "label": "Je vérifie d’abord si cette consigne correspond vraiment à la situation."
       },
       {
         "k": "Gt",
-        "label": "Je construis un planning précis pour ne pas me disperser."
+        "label": "Je remets en place comment l’intégrer clairement dans ton plan."
       },
       {
         "k": "Sp",
-        "label": "Je teste une méthode d’apprentissage plus vivante ou plus originale."
+        "label": "Je tente une variante personnelle pour te l’approprier."
       }
     ]
   },
   {
     "id": 3,
-    "text": "Un projet collectif démarre mais tout n’est pas encore clair.",
+    "text": "Après un match moyen, tu dois repartir très vite sur une deuxième rencontre.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que tu peux encore construire sur la suite de la journée."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action la plus simple pour repartir fort."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les besoins émotionnels du groupe après ce match."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les erreurs précises à ne pas reproduire."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place un ordre clair pour repartir proprement."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une autre manière d’aborder la seconde rencontre."
       }
     ]
   },
   {
     "id": 4,
-    "text": "Tu reçois une critique sur quelque chose que tu as fait sérieusement.",
+    "text": "Tu sens que ton adversaire cherche à t’impressionner dès le début.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche ce que ce retour peut m’apprendre pour progresser sur la durée."
+        "label": "Je regarde d’abord ce que cette attitude annonce pour la suite du duel."
       },
       {
         "k": "Cq",
-        "label": "Je décide vite de ce que je vais corriger concrètement."
+        "label": "Je choisis d’abord une réponse immédiate pour reprendre la main."
       },
       {
         "k": "Bv",
-        "label": "Je prends aussi en compte la relation et l’intention de la personne."
+        "label": "Je prends en compte l’effet que ce jeu peut avoir sur l’ambiance du match."
       },
       {
         "k": "Fb",
-        "label": "Je trie ce qui est exact, flou ou discutable dans ce retour."
+        "label": "Je vérifie d’abord les indices utiles dans son comportement."
       },
       {
         "k": "Gt",
-        "label": "Je transforme la critique en points de réglage précis."
+        "label": "Je remets en place ta ligne de conduite pour rester solide."
       },
       {
         "k": "Sp",
-        "label": "Je m’en sers pour essayer une autre manière de faire."
+        "label": "Je tente une façon inattendue de casser son rythme."
       }
     ]
   },
   {
     "id": 5,
-    "text": "Tu viens de faire une erreur dans un moment important.",
+    "text": "Pendant l’échauffement, quelque chose ne se passe pas comme prévu.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je me demande ce que cette erreur peut m’enseigner pour la prochaine fois."
+        "label": "Je regarde d’abord ce que cet imprévu peut changer dans ta préparation."
       },
       {
         "k": "Cq",
-        "label": "Je cherche à me remettre immédiatement dans l’action juste."
+        "label": "Je choisis d’abord ce que tu peux lancer tout de suite malgré tout."
       },
       {
         "k": "Bv",
-        "label": "Je m’appuie sur le lien et le soutien autour de moi pour ne pas me refermer."
+        "label": "Je prends en compte qui risque d’être déstabilisé autour de toi."
       },
       {
         "k": "Fb",
-        "label": "Je repère précisément le mécanisme qui a produit l’erreur."
+        "label": "Je vérifie d’abord les faits à vérifier avant de réagir."
       },
       {
         "k": "Gt",
-        "label": "Je reviens à un repère simple et fiable pour me recaler."
+        "label": "Je remets en place la nouvelle organisation à mettre en place."
       },
       {
         "k": "Sp",
-        "label": "Je change d’angle pour ne pas reproduire exactement la même chose."
+        "label": "Je tente une solution de rechange à tester rapidement."
       }
     ]
   },
   {
     "id": 6,
-    "text": "Un ami proche traverse une période compliquée.",
+    "text": "Ton équipe mène, mais le niveau de concentration baisse dangereusement.",
     "options": [
       {
         "k": "Vs",
-        "label": "J’essaie de l’aider à voir au-delà du moment difficile qu’il traverse."
+        "label": "Je regarde d’abord comment garder le cap jusqu’au bout."
       },
       {
         "k": "Cq",
-        "label": "Je l’aide à identifier une première action utile au lieu de tourner en rond."
+        "label": "Je choisis d’abord le geste concret pour remobiliser tout le monde."
       },
       {
         "k": "Bv",
-        "label": "Je prends d’abord le temps d’écouter vraiment ce qu’il ressent."
+        "label": "Je prends en compte le message qui évite que chacun se relâche."
       },
       {
         "k": "Fb",
-        "label": "Je cherche à comprendre ce qui s’est réellement passé et ce qui l’affecte."
+        "label": "Je vérifie d’abord ce qui montre réellement la baisse d’attention."
       },
       {
         "k": "Gt",
-        "label": "Je l’aide à remettre un peu d’ordre dans ce qu’il vit concrètement."
+        "label": "Je remets en place le cadre à rappeler pour finir sérieusement."
       },
       {
         "k": "Sp",
-        "label": "Je lui propose une respiration différente pour desserrer la pression."
+        "label": "Je tente une manière plus dynamique de relancer l’engagement."
       }
     ]
   },
   {
     "id": 7,
-    "text": "Tu dois choisir entre plusieurs options pour la suite de ton parcours.",
+    "text": "Tu rates un geste que tu réussis pourtant d’habitude à l’entraînement.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cet écart peut t’enseigner pour progresser."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la réaction la plus utile pour te remettre dedans."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui te ferait du bien dans l’instant."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui s’est exactement dérèglé."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le repère à reprendre pour retrouver ta routine."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une autre entrée technique à essayer."
       }
     ]
   },
   {
     "id": 8,
-    "text": "Le groupe hésite et personne ne tranche vraiment.",
+    "text": "On te demande de prendre la parole dans le vestiaire avant un match important.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je reformule l’objectif pour que le groupe voie vers quoi il va."
+        "label": "Je regarde d’abord l’élan que tu veux donner au groupe pour la suite."
       },
       {
         "k": "Cq",
-        "label": "Je pousse à choisir une option et à la mettre en route."
+        "label": "Je choisis d’abord la phrase qui met tout le monde en mouvement."
       },
       {
         "k": "Bv",
-        "label": "Je fais de la place à chacun pour éviter qu’un membre décroche."
+        "label": "Je prends en compte ce qui peut toucher juste chez chacun."
       },
       {
         "k": "Fb",
-        "label": "Je demande les éléments qui manquent pour décider plus juste."
+        "label": "Je vérifie d’abord les informations qu’il vaut mieux rappeler."
       },
       {
         "k": "Gt",
-        "label": "Je propose une méthode claire pour trancher sans s’éparpiller."
+        "label": "Je remets en place la structure claire de ton message."
       },
       {
         "k": "Sp",
-        "label": "J’ouvre une piste que personne n’avait encore envisagée."
+        "label": "Je tente une façon plus marquante de parler au groupe."
       }
-    ],
-    "mirrorOf": 38
+    ]
   },
   {
     "id": 9,
-    "text": "Tu arrives dans un nouvel environnement où tu connais peu de monde.",
+    "text": "Un coéquipier doute beaucoup alors qu’il a du potentiel.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche rapidement à comprendre quelle place ce nouveau contexte peut avoir dans mon parcours."
+        "label": "Je regarde d’abord la perspective qui peut l’aider à se projeter."
       },
       {
         "k": "Cq",
-        "label": "Je vais au contact pour prendre ma place sans attendre."
+        "label": "Je choisis d’abord l’action concrète qui peut le remettre en route."
       },
       {
         "k": "Bv",
-        "label": "Je m’intéresse d’abord aux personnes pour créer un climat simple."
+        "label": "Je prends en compte la manière de le soutenir sans l’écraser."
       },
       {
         "k": "Fb",
-        "label": "J’observe les codes et les dynamiques avant de trop m’avancer."
+        "label": "Je vérifie d’abord ce qui nourrit vraiment son doute."
       },
       {
         "k": "Gt",
-        "label": "Je repère comment ce groupe fonctionne concrètement."
+        "label": "Je remets en place un cadre simple pour l’aider à avancer."
       },
       {
         "k": "Sp",
-        "label": "Je lance une entrée en relation un peu différente pour casser la glace."
+        "label": "Je tente une approche différente pour réveiller sa confiance."
       }
     ]
   },
   {
     "id": 10,
-    "text": "Tu dois apprendre rapidement une nouvelle compétence.",
+    "text": "Ton plan de match ne fonctionne pas comme prévu au milieu de la rencontre.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je veux comprendre à quoi cette compétence pourra vraiment me servir."
+        "label": "Je regarde d’abord ce que la situation ouvre encore comme possibilité."
       },
       {
         "k": "Cq",
-        "label": "Je pratique vite pour entrer dans le concret."
+        "label": "Je choisis d’abord la décision à prendre sans attendre."
       },
       {
         "k": "Bv",
-        "label": "Je cherche un format où je puisse apprendre avec ou grâce à d’autres."
+        "label": "Je prends en compte qui risque de perdre pied si rien ne change."
       },
       {
         "k": "Fb",
-        "label": "Je commence par saisir le mécanisme exact de la compétence."
+        "label": "Je vérifie d’abord les données du match à relire rapidement."
       },
       {
         "k": "Gt",
-        "label": "Je me donne une méthode progressive et régulière."
+        "label": "Je remets en place la réorganisation la plus claire possible."
       },
       {
         "k": "Sp",
-        "label": "Je multiplie les essais pour voir ce qui me convient le mieux."
+        "label": "Je tente une option surprenante pour renverser la dynamique."
       }
     ]
   },
   {
     "id": 11,
-    "text": "Tu lances une idée sur les réseaux sociaux et les réactions sont mitigées.",
+    "text": "Tu as plusieurs examens rapprochés et tu ne peux pas tout travailler à fond.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je regarde quel message de fond je veux continuer à porter malgré les réactions."
+        "label": "Je regarde d’abord ce qui compte le plus pour la suite de ton parcours."
       },
       {
         "k": "Cq",
-        "label": "Je décide rapidement si je corrige, assume ou relance le sujet."
+        "label": "Je choisis d’abord la matière à attaquer immédiatement."
       },
       {
         "k": "Bv",
-        "label": "Je prends en compte l’effet humain de ce que je publie et de ce que je lis."
+        "label": "Je prends en compte ton niveau de fatigue réel et celui des autres si vous révisez ensemble."
       },
       {
         "k": "Fb",
-        "label": "J’analyse le type de retours pour distinguer l’utile du bruit."
+        "label": "Je vérifie d’abord les chapitres qui rapporteront le plus de points."
       },
       {
         "k": "Gt",
-        "label": "Je clarifie ma ligne et mes règles de publication pour la suite."
+        "label": "Je remets en place un ordre de révision réaliste."
       },
       {
         "k": "Sp",
-        "label": "Je change le format ou l’angle pour tester autre chose."
+        "label": "Je tente une méthode inhabituelle pour mémoriser plus vite."
       }
     ]
   },
   {
     "id": 12,
-    "text": "Une journée est beaucoup plus chargée que prévu.",
+    "text": "Tu ouvres un sujet d’examen blanc et tu bloques sur la première question.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je reviens à l’essentiel pour ne pas perdre le sens de ce que je fais."
+        "label": "Je regarde d’abord ce que cette difficulté révèle pour progresser ensuite."
       },
       {
         "k": "Cq",
-        "label": "Je choisis la première action qui fera baisser la charge réelle."
+        "label": "Je choisis d’abord la première action qui permet de repartir."
       },
       {
         "k": "Bv",
-        "label": "Je veille à ne pas écraser les autres dans ma propre tension."
+        "label": "Je prends en compte la pression que cela peut créer chez les autres autour de toi."
       },
       {
         "k": "Fb",
-        "label": "Je trie les informations et les urgences pour ne pas réagir au hasard."
+        "label": "Je vérifie d’abord la raison exacte du blocage."
       },
       {
         "k": "Gt",
-        "label": "Je remets un ordre clair dans la journée."
+        "label": "Je remets en place la manière de reprendre la copie avec méthode."
       },
       {
         "k": "Sp",
-        "label": "Je cherche une façon plus souple de traverser la charge sans me bloquer."
+        "label": "Je tente une autre porte d’entrée dans le sujet."
       }
-    ],
-    "mirrorOf": 41
+    ]
   },
   {
     "id": 13,
-    "text": "Ton groupe doit organiser un événement avec peu de temps.",
+    "text": "Un professeur critique ton travail alors que tu t’es beaucoup investi.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je pose la finalité de l’événement pour orienter les choix."
+        "label": "Je regarde d’abord ce que ce retour peut améliorer dans ta progression."
       },
       {
         "k": "Cq",
-        "label": "Je lance immédiatement les actions qui débloquent l’organisation."
+        "label": "Je choisis d’abord ce que tu peux corriger dès maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je veille à ce que chacun sache comment contribuer sans se sentir mis de côté."
+        "label": "Je prends en compte la manière de recevoir cette critique sans te fermer."
       },
       {
         "k": "Fb",
-        "label": "Je vérifie les contraintes concrètes avant de promettre quoi que ce soit."
+        "label": "Je vérifie d’abord les éléments précis de la remarque."
       },
       {
         "k": "Gt",
-        "label": "Je répartis les rôles et les étapes de manière très claire."
+        "label": "Je remets en place comment réorganiser ton travail pour la suite."
       },
       {
         "k": "Sp",
-        "label": "Je propose un format vivant qui donne envie de s’engager."
+        "label": "Je tente une nouvelle façon de présenter ton idée."
       }
     ]
   },
   {
     "id": 14,
-    "text": "Tu sens que ta motivation baisse depuis quelques jours.",
+    "text": "Tu dois choisir entre deux formations qui t’attirent vraiment.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je me reconnecte à la raison profonde pour laquelle j’ai commencé."
+        "label": "Je regarde d’abord la trajectoire de vie que chacune peut t’ouvrir."
       },
       {
         "k": "Cq",
-        "label": "Je remets du mouvement avec un objectif court et exigeant."
+        "label": "Je choisis d’abord le prochain pas concret pour avancer dans ton choix."
       },
       {
         "k": "Bv",
-        "label": "Je cherche du soutien ou un cadre relationnel qui me relance."
+        "label": "Je prends en compte l’impact de ce choix sur ton entourage proche."
       },
       {
         "k": "Fb",
-        "label": "J’identifie ce qui a objectivement fait baisser mon énergie."
+        "label": "Je vérifie d’abord les informations qui manquent encore."
       },
       {
         "k": "Gt",
-        "label": "Je reconstruis une routine simple au lieu d’attendre l’envie."
+        "label": "Je remets en place les critères à poser pour décider proprement."
       },
       {
         "k": "Sp",
-        "label": "Je renouvelle la manière de faire pour retrouver de l’élan."
+        "label": "Je tente une piste alternative à ne pas écarter trop vite."
       }
     ]
   },
   {
     "id": 15,
-    "text": "On te demande d’aider à résoudre un conflit entre deux personnes.",
+    "text": "Un travail de groupe avance très lentement et personne ne tranche.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche l’enjeu de fond qui dépasse le conflit du moment."
+        "label": "Je regarde d’abord ce que ce projet pourrait devenir s’il était mieux orienté."
       },
       {
         "k": "Cq",
-        "label": "Je pousse à clarifier franchement ce qui bloque."
+        "label": "Je choisis d’abord l’action utile pour relancer le groupe."
       },
       {
         "k": "Bv",
-        "label": "Je m’assure que chacun se sente entendu avant de réparer."
+        "label": "Je prends en compte ce qui freine la participation de certains."
       },
       {
         "k": "Fb",
-        "label": "Je distingue les faits, les interprétations et les émotions."
+        "label": "Je vérifie d’abord les causes exactes du blocage."
       },
       {
         "k": "Gt",
-        "label": "Je propose un cadre de discussion qui évite de repartir dans tous les sens."
+        "label": "Je remets en place la répartition des tâches à clarifier."
       },
       {
         "k": "Sp",
-        "label": "J’essaie une manière de parler ou de recadrer plus décalée et apaisante."
+        "label": "Je tente une manière plus créative de faire avancer le dossier."
       }
-    ],
-    "mirrorOf": 59
+    ]
   },
   {
     "id": 16,
-    "text": "Tu dois préparer une prise de parole importante.",
+    "text": "Tu dois prendre la parole à l’oral devant une classe nombreuse.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je travaille le message central que je veux laisser."
+        "label": "Je regarde d’abord le message que tu veux vraiment faire passer."
       },
       {
         "k": "Cq",
-        "label": "Je m’entraîne à être direct, clair et présent dès l’entrée."
+        "label": "Je choisis d’abord la première phrase qui te met en action."
       },
       {
         "k": "Bv",
-        "label": "Je pense à la manière de parler pour créer du lien avec le public."
+        "label": "Je prends en compte ce qui aidera le public à te suivre."
       },
       {
         "k": "Fb",
-        "label": "Je prépare mes arguments et mes exemples avec précision."
+        "label": "Je vérifie d’abord les points du sujet à sécuriser absolument."
       },
       {
         "k": "Gt",
-        "label": "Je structure mon intervention pour ne pas me perdre."
+        "label": "Je remets en place la structure la plus claire pour ton oral."
       },
       {
         "k": "Sp",
-        "label": "Je cherche une façon plus vivante ou plus originale de capter l’attention."
+        "label": "Je tente une façon originale de capter l’attention."
       }
     ]
   },
   {
     "id": 17,
-    "text": "Tu travailles sur un objectif long et les progrès semblent lents.",
+    "text": "Tu reçois une mauvaise note alors que tu pensais avoir réussi.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je me reconnecte à la trajectoire globale plutôt qu’au seul moment de fatigue."
+        "label": "Je regarde d’abord ce que cette note peut réorienter dans ta manière de travailler."
       },
       {
         "k": "Cq",
-        "label": "Je me fixe une étape proche à aller chercher tout de suite."
+        "label": "Je choisis d’abord ce que tu fais dès aujourd’hui pour réagir."
       },
       {
         "k": "Bv",
-        "label": "Je veille à rester soutenu plutôt que de porter seul l’effort."
+        "label": "Je prends en compte la façon dont tu te parles après ce résultat."
       },
       {
         "k": "Fb",
-        "label": "Je regarde objectivement ce qui progresse, même lentement."
+        "label": "Je vérifie d’abord les écarts entre ce que tu pensais et la réalité."
       },
       {
         "k": "Gt",
-        "label": "Je protège la régularité qui fera la différence à terme."
+        "label": "Je remets en place la routine à remettre en place."
       },
       {
         "k": "Sp",
-        "label": "Je varie intelligemment la manière de travailler pour durer."
+        "label": "Je tente une autre méthode d’apprentissage à tester."
       }
-    ],
-    "mirrorOf": 57
+    ]
   },
   {
     "id": 18,
-    "text": "Tu dois collaborer avec quelqu’un qui fonctionne très différemment de toi.",
+    "text": "Tu hésites à demander de l’aide sur un sujet que tu comprends mal.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche le point commun de vision qui peut nous aligner."
+        "label": "Je regarde d’abord ce que cette aide pourrait débloquer pour toi."
       },
       {
         "k": "Cq",
-        "label": "Je propose de nous mettre vite en mouvement malgré nos différences."
+        "label": "Je choisis d’abord la démarche la plus simple à faire maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je fais l’effort d’ajuster la relation avant de vouloir performer ensemble."
+        "label": "Je prends en compte la personne la plus rassurante à qui parler."
       },
       {
         "k": "Fb",
-        "label": "J’essaie de comprendre précisément son fonctionnement au lieu de le juger trop vite."
+        "label": "Je vérifie d’abord la partie exacte que tu ne maîtrises pas."
       },
       {
         "k": "Gt",
-        "label": "Je mets au clair des règles simples de collaboration."
+        "label": "Je remets en place comment formuler clairement ta demande."
       },
       {
         "k": "Sp",
-        "label": "Je teste une façon différente de travailler avec cette personne."
+        "label": "Je tente une autre manière de trouver une explication."
       }
     ]
   },
   {
     "id": 19,
-    "text": "Une opportunité intéressante apparaît à la dernière minute.",
+    "text": "Tu dois mener un projet long et garder ta motivation sur plusieurs semaines.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je regarde ce que cette opportunité peut ouvrir à plus long terme."
+        "label": "Je regarde d’abord le sens global qui peut te porter jusqu’au bout."
       },
       {
         "k": "Cq",
-        "label": "Je décide vite si elle mérite que je me lance."
+        "label": "Je choisis d’abord la petite action quotidienne qui fait avancer."
       },
       {
         "k": "Bv",
-        "label": "Je prends en compte son impact sur mon équilibre et mes liens importants."
+        "label": "Je prends en compte ce qui aidera le groupe à tenir dans la durée."
       },
       {
         "k": "Fb",
-        "label": "J’évalue les conditions réelles avant de m’emballer."
+        "label": "Je vérifie d’abord les moments où tu risques de décrocher."
       },
       {
         "k": "Gt",
-        "label": "Je vérifie ce qu’elle implique concrètement pour mon organisation."
+        "label": "Je remets en place le planning minimal à respecter."
       },
       {
         "k": "Sp",
-        "label": "Je me laisse la possibilité de sortir du cadre habituel."
+        "label": "Je tente une astuce pour rendre le projet plus stimulant."
       }
-    ],
-    "mirrorOf": 40
+    ]
   },
   {
     "id": 20,
-    "text": "Tu dois faire un choix rapidement sans avoir toutes les informations.",
+    "text": "On te propose une opportunité intéressante mais qui sort de ton parcours prévu.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je choisis l’option qui reste cohérente avec la direction que je poursuis."
+        "label": "Je regarde d’abord ce que cette option peut changer à long terme."
       },
       {
         "k": "Cq",
-        "label": "Je préfère avancer avec des données incomplètes plutôt que rester figé."
+        "label": "Je choisis d’abord le premier contact à prendre pour l’explorer."
       },
       {
         "k": "Bv",
-        "label": "Je considère aussi les effets humains de la décision."
+        "label": "Je prends en compte l’effet de ce choix sur les personnes concernées."
       },
       {
         "k": "Fb",
-        "label": "Je cherche l’information la plus décisive avant de choisir."
+        "label": "Je vérifie d’abord les risques réels et les avantages concrets."
       },
       {
         "k": "Gt",
-        "label": "Je m’appuie sur mes critères et mes repères plutôt que sur la panique du moment."
+        "label": "Je remets en place le cadre dans lequel tu pourrais l’essayer."
       },
       {
         "k": "Sp",
-        "label": "J’accepte l’incertitude comme un espace d’ajustement possible."
+        "label": "Je tente une manière originale de combiner les deux voies."
       }
     ]
   },
   {
     "id": 21,
-    "text": "Ton équipe a perdu alors que vous vous étiez beaucoup investis.",
+    "text": "Tu dois organiser un week-end avec plusieurs amis aux envies différentes.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que vous voulez vraiment vivre ensemble."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la décision pratique à prendre tout de suite."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui risque de frustrer certaines personnes."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les contraintes réelles de budget et de temps."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la façon de répartir les choix."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une idée inattendue qui peut mettre tout le monde d’accord."
       }
     ]
   },
   {
     "id": 22,
-    "text": "Tu dois planifier les prochaines semaines pour tenir plusieurs priorités.",
+    "text": "Quelqu’un t’écrit un message sec et tu ne sais pas comment l’interpréter.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette tension peut signifier pour la relation."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la réponse la plus utile à envoyer maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte l’état émotionnel possible de l’autre."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les faits avant d’imaginer le pire."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la manière de remettre un échange clair."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon plus légère de rouvrir le dialogue."
       }
     ]
   },
   {
     "id": 23,
-    "text": "Tu participes à une réunion où les idées partent dans tous les sens.",
+    "text": "Tu arrives dans un groupe où tu ne connais presque personne.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord la place que tu pourrais prendre dans ce groupe."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le geste simple pour entrer dans l’échange."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes qui semblent avoir besoin d’être mises à l’aise."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui se joue dans la dynamique du groupe."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les codes à repérer pour t’intégrer proprement."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon originale de créer le contact."
       }
     ]
   },
   {
     "id": 24,
-    "text": "Tu constates qu’un détail important a été négligé.",
+    "text": "Tu as enfin du temps libre, mais tu sens une forte dispersion mentale.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que tu aimerais vraiment construire avec ce temps."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action prioritaire qui te remet en route."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui t’aiderait à retrouver un meilleur climat intérieur."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui te disperse réellement."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre minimal à fixer à ta journée."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une activité nouvelle qui peut relancer ton énergie."
       }
-    ],
-    "mirrorOf": 46
+    ]
   },
   {
     "id": 25,
-    "text": "Tu dois remotiver un groupe fatigué.",
+    "text": "Un proche compte sur toi au moment où tu as déjà beaucoup à gérer.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce qui mérite d’être préservé sur le long terme."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’aide concrète que tu peux offrir maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce dont cette personne a peut-être le plus besoin."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui est possible sans te mettre en surcharge."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la limite claire à poser."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une solution différente pour l’aider sans tout porter."
       }
     ]
   },
   {
     "id": 26,
-    "text": "Tu as une idée nouvelle mais tu ne sais pas encore comment la présenter.",
+    "text": "Tu dois faire un choix important avec peu de temps pour réfléchir.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que ce choix engage pour la suite."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la décision provisoire la plus utile à prendre."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les conséquences humaines de ce choix."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les informations essentielles à vérifier."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le critère principal qui doit te guider."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une option de secours à imaginer."
       }
     ]
   },
   {
     "id": 27,
-    "text": "Un imprévu bouscule complètement ce qui était prévu.",
+    "text": "Une discussion tourne au malentendu avec quelqu’un que tu apprécies.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette discussion peut faire évoluer dans votre lien."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le pas concret pour apaiser l’échange."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce que l’autre peut ressentir derrière ses mots."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui a vraiment été dit ou non."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la manière de remettre un cadre de discussion sain."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon différente de reprendre la conversation."
       }
-    ],
-    "mirrorOf": 58
+    ]
   },
   {
     "id": 28,
-    "text": "Tu te compares à quelqu’un qui semble avancer plus vite que toi.",
+    "text": "Tu sens que tu t’engages dans trop de choses en même temps.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que tu veux réellement préserver comme direction."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la première chose à enlever ou déléguer."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes qui peuvent être touchées par ta surcharge."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui prend le plus d’énergie sans rapporter grand-chose."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les priorités à remettre à plat."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière plus simple d’organiser ton quotidien."
       }
     ]
   },
   {
     "id": 29,
-    "text": "Tu dois gérer une tension entre performance et bien-être.",
+    "text": "Tu as une idée personnelle qui te tient à cœur mais tu n’oses pas la lancer.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce qu’elle pourrait t’apporter si tu la menais jusqu’au bout."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le premier test concret pour lui donner vie."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les réactions possibles de ton entourage."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qu’il faut encore comprendre avant de te lancer."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la base minimale à préparer."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une forme originale pour la présenter."
       }
     ]
   },
   {
     "id": 30,
-    "text": "On te confie une responsabilité nouvelle.",
+    "text": "Quelqu’un t’a déçu et tu ne sais pas si tu dois lui redonner ta confiance.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette relation peut encore devenir."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action la plus juste à faire maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce que chacun a peut-être vécu dans l’histoire."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les faits qui comptent vraiment."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les conditions à poser pour repartir sainement."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une autre manière d’avancer sans revenir comme avant."
       }
-    ],
-    "mirrorOf": 50
+    ]
   },
   {
     "id": 31,
-    "text": "Tu dois préparer un examen oral devant un jury.",
+    "text": "Tu commences un stage et tu veux faire bonne impression sans en faire trop.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que tu aimerais construire dans cette expérience."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la première contribution utile à apporter."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les attentes implicites des personnes autour de toi."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les codes du lieu à comprendre rapidement."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les repères de fonctionnement à adopter."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon personnelle de te rendre utile."
       }
     ]
   },
   {
     "id": 32,
-    "text": "Tu participes à une compétition où l’attente avant de jouer est longue.",
+    "text": "On te confie une mission floue avec peu d’explications.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette mission peut révéler comme opportunité."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la première initiative à prendre."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes à associer pour éviter les tensions."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les informations qu’il te manque vraiment."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre de travail à clarifier."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière inventive de démarrer malgré le flou."
       }
     ]
   },
   {
     "id": 33,
-    "text": "Tu découvres qu’un travail d’équipe n’est pas au niveau attendu.",
+    "text": "Une réunion s’éternise et tu sens que plus rien n’avance.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord le résultat utile qui devrait sortir de cette réunion."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la relance concrète à proposer."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui empêche les personnes de se positionner."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les points de désaccord réels."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la décision de méthode qu’il faut poser."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière plus vivante de faire émerger les idées."
       }
-    ],
-    "mirrorOf": 55
+    ]
   },
   {
     "id": 34,
-    "text": "Tu dois accompagner quelqu’un qui doute beaucoup de lui.",
+    "text": "Tu dois rendre quelque chose d’important avec un délai très court.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que ce rendu peut ouvrir pour la suite."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la tâche prioritaire à exécuter sans attendre."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les appuis humains sur lesquels t’appuyer."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qu’il faut sécuriser pour éviter une erreur."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place l’ordre de production le plus efficace."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une astuce pour gagner du temps autrement."
       }
     ]
   },
   {
     "id": 35,
-    "text": "Tu veux progresser mais ta méthode actuelle plafonne.",
+    "text": "Un collègue prend beaucoup de place et coupe souvent la parole.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette situation dit du fonctionnement collectif."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la réponse directe la plus utile."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la manière d’éviter que quelqu’un se sente écrasé."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qu’il se passe concrètement dans les échanges."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la règle de discussion à remettre en place."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon plus fine de redistribuer la parole."
       }
     ]
   },
   {
     "id": 36,
-    "text": "Tu reçois enfin une bonne nouvelle après beaucoup d’efforts.",
+    "text": "Tu reçois plusieurs demandes urgentes en même temps.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce qui mérite vraiment d’être traité en premier à long terme."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action qui débloque le plus vite la situation."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes à prévenir pour éviter les frustrations."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les urgences qui sont réellement prioritaires."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la méthode de tri à appliquer tout de suite."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une solution plus inventive pour absorber la charge."
       }
     ]
   },
   {
     "id": 37,
-    "text": "Une discussion tourne au malentendu.",
+    "text": "Tu dois proposer une idée d’amélioration à une équipe déjà très occupée.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord le bénéfice durable que cette idée peut apporter."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’essai rapide qui permet de la rendre concrète."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui donnera envie aux autres de l’écouter."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les objections probables à anticiper."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la manière de présenter la proposition clairement."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une entrée plus originale pour la faire accepter."
       }
     ]
   },
   {
     "id": 38,
-    "text": "Tu dois prendre la tête d’un groupe sur une courte durée.",
+    "text": "Tu constates une erreur mais tu ne sais pas encore qui l’a commise.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette situation peut améliorer dans le fonctionnement."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la première mesure utile pour limiter l’impact."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la manière de préserver les personnes concernées."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les vérifications à faire avant d’accuser."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le processus à sécuriser pour la suite."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une autre façon de corriger sans dramatiser."
       }
-    ],
-    "mirrorOf": 8
+    ]
   },
   {
     "id": 39,
-    "text": "Tu sens qu’une occasion pourrait te faire grandir mais aussi te mettre en difficulté.",
+    "text": "Ton responsable te demande plus d’autonomie sur une mission importante.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette confiance peut changer dans ton évolution."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’initiative la plus utile à prendre maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les besoins de coordination avec les autres."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les zones que tu dois encore comprendre."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place l’organisation personnelle à mettre en place."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière personnelle d’apporter de la valeur."
       }
     ]
   },
   {
     "id": 40,
-    "text": "Tu es face à un choix entre sécurité et nouveauté.",
+    "text": "Tu dois collaborer avec quelqu’un dont le style est très différent du tien.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette complémentarité peut produire de positif."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le premier terrain d’action commun à créer."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui aidera la relation à rester saine."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les différences précises à repérer."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les règles de collaboration à poser."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière souple d’utiliser vos écarts."
       }
-    ],
-    "mirrorOf": 19
+    ]
   },
   {
     "id": 41,
-    "text": "Tu prépares un déplacement important avec beaucoup de paramètres.",
+    "text": "Tu publies quelque chose sur un réseau social et les réactions sont partagées.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette prise de parole peut ouvrir ensuite."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la réponse la plus utile à donner maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce que certaines réactions révèlent chez les autres."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui relève du fond et ce qui relève du bruit."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la manière de cadrer la suite des échanges."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon différente de reformuler ton message."
       }
-    ],
-    "mirrorOf": 12
+    ]
   },
   {
     "id": 42,
-    "text": "Tu dois reprendre après une période de baisse d’énergie.",
+    "text": "Tu vois quelqu’un se faire critiquer publiquement dans un groupe en ligne.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cet épisode peut changer dans le climat du groupe."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’intervention la plus utile à faire."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la manière de protéger la personne visée."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qu’il s’est réellement passé avant de juger."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la règle de fonctionnement à rappeler."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon plus constructive de déplacer l’échange."
       }
     ]
   },
   {
     "id": 43,
-    "text": "Tu veux convaincre quelqu’un de te suivre dans un projet.",
+    "text": "Tu hésites à partager un projet encore fragile parce que tu crains le regard des autres.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que ce partage pourrait accélérer dans ton avancée."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le test le plus simple pour te lancer."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes auprès de qui il vaut mieux le montrer d’abord."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qu’il reste à consolider avant diffusion."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre dans lequel le présenter."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une forme plus créative de le rendre visible."
       }
     ]
   },
   {
     "id": 44,
-    "text": "Tu t’ennuies dans une tâche répétitive mais nécessaire.",
+    "text": "Un ami compare sa vie à ce qu’il voit en ligne et se décourage.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord la perspective qu’il faudrait lui redonner."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action concrète qui peut l’aider tout de suite."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la façon de l’écouter sans minimiser."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui, dans ces contenus, déclenche vraiment sa baisse morale."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les limites saines à remettre sur son usage."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière plus inspirante d’utiliser les réseaux."
       }
     ]
   },
   {
     "id": 45,
-    "text": "Tu veux aider un groupe à mieux fonctionner ensemble.",
+    "text": "Tu reçois une invitation à rejoindre un groupe ou un projet en ligne.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette communauté pourrait t’apporter réellement."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la première prise de contact à faire."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la qualité de lien à construire avant de t’engager."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les éléments à vérifier sur ce groupe."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les règles d’engagement dont tu as besoin."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière originale de participer sans te perdre."
       }
     ]
   },
   {
     "id": 46,
-    "text": "Tu dois faire un point honnête sur ce qui ne marche pas.",
+    "text": "Une conversation écrite part en vrille parce que chacun interprète mal les messages.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette situation dit de la relation ou du groupe."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action la plus efficace pour calmer le jeu."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui a pu blesser ou crisper les personnes."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les formulations qui posent vraiment problème."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre de communication à remettre."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une autre manière d’échanger que les messages."
       }
-    ],
-    "mirrorOf": 24
+    ]
   },
   {
     "id": 47,
-    "text": "Tu sens que ton stress monte juste avant un moment clé.",
+    "text": "Tu découvres un domaine qui t’attire, mais il est très éloigné de ce que tu fais aujourd’hui.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette piste peut représenter pour ton avenir."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la première démarche pour la tester concrètement."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes à qui tu pourrais en parler utilement."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les écarts réels entre ce domaine et tes compétences actuelles."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la manière de l’explorer sans tout bouleverser."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une passerelle originale entre ton parcours et ce nouvel intérêt."
       }
     ]
   },
   {
     "id": 48,
-    "text": "Une personne remet en cause ta manière de faire.",
+    "text": "Tu dois choisir un stage, mais aucun choix n’est parfait.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que chaque option raconte de ton orientation future."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la candidature à lancer sans attendre."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la personne la plus pertinente pour t’éclairer."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les critères objectifs qui doivent départager les offres."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la méthode de sélection la plus nette."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une combinaison différente pour ne pas tout opposer."
       }
     ]
   },
   {
     "id": 49,
-    "text": "Tu dois prioriser entre plusieurs urgences.",
+    "text": "Tu sens que ce que tu fais n’a plus beaucoup de sens pour toi.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord la direction qu’il serait important de retrouver."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le changement concret à initier rapidement."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes qu’il faudrait embarquer ou prévenir."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les signes précis de cette perte de sens."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les éléments de ton quotidien à remettre en ordre."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière nouvelle de redonner du souffle à ton parcours."
       }
     ]
   },
   {
     "id": 50,
-    "text": "Tu veux installer une nouvelle habitude dans la durée.",
+    "text": "On te demande où tu te vois dans quelques années et tu n’as pas de réponse claire.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord l’image globale qui pourrait te servir de boussole."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la prochaine expérience à tenter pour avancer."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui compte vraiment pour toi et pour ceux qui t’entourent."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce que tu sais déjà de tes préférences."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place les repères que tu peux poser sans tout figer."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une piste inattendue à explorer."
       }
-    ],
-    "mirrorOf": 30
+    ]
   },
   {
     "id": 51,
-    "text": "Ton groupe doit se réorganiser après un changement important.",
+    "text": "Tu rencontres quelqu’un dont le parcours t’inspire beaucoup.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que tu peux apprendre de sa trajectoire pour la tienne."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la question ou la demande utile à lui faire."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la qualité de lien à créer avec cette personne."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qu’il faut comprendre de son parcours réel."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la manière de capitaliser sur cette rencontre."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon originale de prolonger le contact."
       }
     ]
   },
   {
     "id": 52,
-    "text": "Tu dois faire face à une consigne floue.",
+    "text": "Tu dois reprendre un projet mal engagé avec une équipe démobilisée.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord la nouvelle direction à donner au projet."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la première action qui peut relancer la dynamique."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui redonnera envie aux personnes de s’impliquer."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les causes précises de la démobilisation."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre de fonctionnement à reconstruire."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière plus fraîche de relancer le collectif."
       }
     ]
   },
   {
     "id": 53,
-    "text": "Tu veux transformer une envie en plan réel.",
+    "text": "Deux personnes de ton groupe s’opposent et cela bloque tout le monde.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que ce conflit peut permettre de clarifier pour l’avenir."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’intervention la plus utile pour sortir de l’impasse."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce dont chacun a besoin pour se sentir respecté."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui oppose réellement ces deux personnes."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la règle commune à remettre au centre."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une méthode différente pour les faire coopérer."
       }
-    ],
-    "mirrorOf": 1
+    ]
   },
   {
     "id": 54,
-    "text": "Tu dois arbitrer entre loyauté au groupe et exigence de résultat.",
+    "text": "Tu dois distribuer des rôles dans une équipe avant une échéance importante.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord la meilleure répartition pour servir le résultat final."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la décision la plus utile à prendre rapidement."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les sensibilités à prendre en compte chez chacun."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les compétences réelles de chaque personne."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place l’organisation claire des responsabilités."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon originale d’utiliser les talents du groupe."
       }
     ]
   },
   {
     "id": 55,
-    "text": "Quelqu’un attend de toi une réponse que tu n’as pas encore.",
+    "text": "On attend de toi une décision impopulaire mais nécessaire.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que cette décision protège à long terme."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord la manière la plus claire de l’assumer."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte l’attention à avoir envers les personnes impactées."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les éléments factuels qui la justifient."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre d’application à poser."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une façon plus constructive de l’accompagner."
       }
-    ],
-    "mirrorOf": 33
+    ]
   },
   {
     "id": 56,
-    "text": "Tu dois retrouver de la clarté après une journée confuse.",
+    "text": "Un membre de l’équipe a beaucoup de potentiel mais reste irrégulier.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce qu’il pourrait devenir s’il se stabilisait."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action la plus efficace pour l’aider à progresser."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte la manière de l’encourager sans le brusquer."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui explique vraiment son irrégularité."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre dont il a besoin pour gagner en constance."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une approche différente pour faire émerger son niveau."
       }
     ]
   },
   {
     "id": 57,
-    "text": "Tu veux relancer un projet qui s’est essoufflé.",
+    "text": "Tu dois faire un retour exigeant sans casser la motivation de la personne.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que ce retour peut lui permettre de construire."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le point concret à lui faire travailler tout de suite."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les mots qui préserveront sa confiance."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les faits précis sur lesquels t’appuyer."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la structure la plus juste pour ton feedback."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière plus engageante de formuler le message."
       }
-    ],
-    "mirrorOf": 17
+    ]
   },
   {
     "id": 58,
-    "text": "Tu dois agir alors que tout n’est pas parfait.",
+    "text": "La fatigue s’accumule et tu sens que ton niveau baisse sur plusieurs jours.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce que ton corps et ton mental essaient de te dire pour la suite."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action de récupération la plus utile dès maintenant."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les effets de cette fatigue sur ton entourage ou ton équipe."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord les signes objectifs de cette baisse."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place le cadre à remettre pour protéger ton énergie."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une autre façon de retrouver de l’élan."
       }
-    ],
-    "mirrorOf": 27
+    ]
   },
   {
     "id": 59,
-    "text": "Tu accompagnes quelqu’un qui a besoin d’être rassuré.",
+    "text": "Tu as beaucoup de choses à réussir la même semaine.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord ce qui mérite vraiment ton énergie sur cette période."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord le premier levier concret pour alléger la pression."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte les personnes avec qui il faut ajuster les attentes."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qu’il est raisonnable d’exiger de toi."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la structure de semaine la plus tenable."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une manière différente de respirer dans cette charge."
       }
-    ],
-    "mirrorOf": 15
+    ]
   },
   {
     "id": 60,
-    "text": "Tu veux passer d’une idée à une exécution solide.",
+    "text": "Juste avant un moment important, ton mental part dans tous les sens.",
     "options": [
       {
         "k": "Vs",
-        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+        "label": "Je regarde d’abord le point de repère qui peut te réaligner."
       },
       {
         "k": "Cq",
-        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+        "label": "Je choisis d’abord l’action immédiate qui te reconnecte au présent."
       },
       {
         "k": "Bv",
-        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+        "label": "Je prends en compte ce qui peut t’apaiser humainement."
       },
       {
         "k": "Fb",
-        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+        "label": "Je vérifie d’abord ce qui déclenche exactement cette agitation."
       },
       {
         "k": "Gt",
-        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+        "label": "Je remets en place la routine simple à reprendre."
       },
       {
         "k": "Sp",
-        "label": "J’explore une manière différente de gérer la situation."
+        "label": "Je tente une entrée originale pour casser la spirale."
       }
     ]
   }
